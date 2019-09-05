@@ -1,0 +1,7 @@
+C:\Users\kole.hicok\source\repos\camelGame\bin\Debug\camelGame.exe.config
+C:\Users\kole.hicok\source\repos\camelGame\bin\Debug\camelGame.exe
+C:\Users\kole.hicok\source\repos\camelGame\bin\Debug\camelGame.pdb
+C:\Users\kole.hicok\source\repos\camelGame\obj\Debug\camelGame.csprojAssemblyReference.cache
+C:\Users\kole.hicok\source\repos\camelGame\obj\Debug\camelGame.csproj.CoreCompileInputs.cache
+C:\Users\kole.hicok\source\repos\camelGame\obj\Debug\camelGame.exe
+C:\Users\kole.hicok\source\repos\camelGame\obj\Debug\camelGame.pdb
